@@ -1,0 +1,1 @@
+Run schema.sql against your PostgreSQL database if you prefer manual schema setup. The app also creates the signals table on startup when DATABASE_URL is configured.
